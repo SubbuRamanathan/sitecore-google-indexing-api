@@ -1,4 +1,4 @@
-# Google Indexing API Integration with Sitecore Publish
+# Sitecore - Google Indexing API Integration
 This repository includes Code and Configurations needed for automating Google Indexing for short-lived content like job postings, live events upon Sitecore Publish
 
 ## Purpose
